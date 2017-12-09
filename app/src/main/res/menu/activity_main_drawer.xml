@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_nearby"
+            android:icon="@mipmap/nearby"
+            android:title="Near By" />
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@mipmap/list"
+            android:title="Lists" />
+
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_account"
+                android:icon="@mipmap/myaccount"
+                android:title="My Account" />
+            <item
+                android:id="@+id/nav_loyaltycard"
+                android:icon="@mipmap/loyaltycard"
+                android:title="Loyalty Card" />
+            <item
+                android:id="@+id/nav_offers"
+                android:icon="@mipmap/offers"
+                android:title="Daily Deals" />
+
+            <item
+                android:id="@+id/nav_qrcode"
+                android:icon="@mipmap/qrcode"
+                android:title="QR Code" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@mipmap/contactstore"
+                android:title="Contact Us" />
+
+        </menu>
+    </item>
+
+</menu>

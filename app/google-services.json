@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057339249093",
+    "firebase_url": "https://foodcityapplication-3b45a.firebaseio.com",
+    "project_id": "foodcityapplication-3b45a",
+    "storage_bucket": "foodcityapplication-3b45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057339249093:android:1779425ac1ff8c73",
+        "android_client_info": {
+          "package_name": "com.foodcityapp.esa.foodcityapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057339249093-maefgr8rqpphtnd2cvffi2jdnbmou9u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodcityapp.esa.foodcityapplication",
+            "certificate_hash": "df6edcc8948174491ef56359c3d9785f187c849b"
+          }
+        },
+        {
+          "client_id": "1057339249093-r8cipla093jl8c09hajr31rug6vi823o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkEJbOzjQq4io9x2uAJXX5L21ySqd_J0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057339249093-r8cipla093jl8c09hajr31rug6vi823o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
